@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
+- **Apellido y nombre: Ayala Agustina Macarena
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno: Turno Mañana
+- **Fecha: 21/11/2026
